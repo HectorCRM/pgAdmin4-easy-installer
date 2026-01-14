@@ -1,7 +1,9 @@
 # pgAdmin4-easy-installer ![Logo Postgres](./imgs/PostgreSQL_logo.png)  
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/HectorCRM/pgAdmin4-easy-installer/total?label=Descargas)
 ![GitHub Repo stars](https://img.shields.io/github/stars/HectorCRM/pgAdmin4-easy-installer?style=round)
-![Visitas](https://komarev.com/ghpvc/?username=HectorCRM-pgAdmin4-easy-installer&color=blue&style=round&label=Visitas:)  
+![Visitas](https://komarev.com/ghpvc/?username=HectorCRM-pgAdmin4-easy-installer&color=blue&style=round&label=Visitas:)
+[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/HectorCRM/6723ac5cabc17d937b45df570143cc11/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)  
+
 
 <details>
   <summary><b>Índice</b></summary>
